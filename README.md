@@ -1,4 +1,4 @@
-# Svelte Markdown
+# Svelte Markdown (Forked)
 
 [![Tests](https://github.com/pablo-abc/svelte-markdown/workflows/Tests/badge.svg?branch=master)](https://github.com/pablo-abc/svelte-markdown/actions?query=workflow%3ATests)
 [![npm](https://img.shields.io/npm/v/svelte-markdown)](https://www.npmjs.com/package/svelte-markdown)

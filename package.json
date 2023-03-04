@@ -1,6 +1,6 @@
 {
-  "name": "svelte-markdown",
-  "description": "A markdown renderer for Svelte",
+  "name": "@dogagenc/svelte-markdown",
+  "description": "A markdown renderer for Svelte (forked from svelte-markdown)",
   "version": "0.2.3",
   "main": "dist/sveltemarkdown.js",
   "module": "dist/sveltemarkdown.es.js",
@@ -12,9 +12,9 @@
     "types"
   ],
   "license": "MIT",
-  "author": "Pablo Berganza <pablo@berganza.dev>",
-  "repository": "github:pablo-abc/svelte-markdown",
-  "homepage": "https://github.com/pablo-abc/svelte-markdown",
+  "author": "Doga Genc <dogagenc@gmail.com>",
+  "repository": "github:dogagenc/svelte-markdown",
+  "homepage": "https://github.com/dogagenc/svelte-markdown",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
